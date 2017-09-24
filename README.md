@@ -1,8 +1,9 @@
 # TDT4180
 Menneske-maskin interaksjon [summer 2017]
 
+This repository include assignments for this course. Such as; simple GUI, fxml and java
 
-Faglig innhold
+# Faglig innhold
 
 Introduksjon til begreper, prinsipper og praksis for konstruksjon av brukervennlige menneske-maskin grensesnitt. 
 Oppgaveanalyse, feltstudie-teknikker, scenariebygging, iterative designmetoder, brukbarhetstesting, mentale modeller, 
