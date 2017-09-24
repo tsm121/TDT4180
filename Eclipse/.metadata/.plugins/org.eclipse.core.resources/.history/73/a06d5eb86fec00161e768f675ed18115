@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Text?>
+
+
+<Pane prefHeight="400" prefWidth="400">
+	<children>
+		<Line endX="400" layoutX="0" layoutY="380"/>
+		<Line endX="200" layoutX="50" layoutY="280" rotate="90"/>
+		<Line endX="100" layoutX="150" layoutY="180"/>
+		<Line endX="30" layoutX="235" layoutY="195" rotate="90"/>
+		
+		<Circle radius="25" layoutX="250" layoutY="235" fill="WHITE" stroke="BLACK" />
+		<Text layoutX="235" layoutY="235" text="X"/>
+		<Text layoutX="255" layoutY="235" text="X"/><Line endX="30" layoutX="235" layoutY="195" rotate="90"/>
+		<Line endX="75" layoutX="212" layoutY="298" rotate="90"/>
+		<Line endX="35" layoutX="244" layoutY="349" rotate="50"/>
+	</children>
+</Pane>
